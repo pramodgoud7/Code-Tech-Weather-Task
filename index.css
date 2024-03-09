@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+  }
+  
+  #weather {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+.heading1{
+    font-family: "Lucida Handwriting", cursive;
+    font-size: 50px;
+    padding-top: 100px;
+}
+body {
+    background-image: url('https://img.freepik.com/free-photo/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring_1253-1092.jpg?w=996&t=st=1709982592~exp=1709983192~hmac=4b6ae74e64cae704b96c28fe137e7ffa5f44803f6323d5a886f187712a5cfd5e'); 
+     background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+  }
